@@ -54,6 +54,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 AirSim and Unreal Engine for simulation capabilities.
 Python and its vast ecosystem for backend development.
 The contributors and maintainers of all used open-source software.
+Special thanks to Hamna Khalid for giving valuable tips and guidance on enhancing the documentation(Advanced_Autonomous_Drone_Navigation_System_Documentation_v1.0) part of this project.   
 
 ## References
 "Flying Free: A Research Overview of Deep Learning in Drone Navigation," available at MDPI.
