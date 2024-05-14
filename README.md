@@ -10,6 +10,12 @@ The Advanced Autonomous Drone Navigation System (AADNS) is a sophisticated initi
 - **Simulation Integration**: Compatible with AirSim and Gazebo for high-fidelity simulation and testing.
 - **Safety and Emergency Protocols**: Robust mechanisms to handle emergency scenarios effectively.
 
+
+## Planned Enhancements
+I am continuously working to improve the system's capabilities. Future enhancements include the integration of advanced pathfinding algorithms such as A* and Dijkstra’s. These enhancements will be integrated into the project's `navigation.py` file and will provide more efficient and optimized pathfinding solutions.
+
+**Note:** For detailed information on future enhancements and the planned implementation of A* and Dijkstra's algorithms, please refer to the `Future_Enhancements.md` file in the `docs` folder. This will give the users an idea on how the, "example usage" can look like.
+
 ## Installation
 Ensure you have the following prerequisites installed:
 - Python 3.8 or later
