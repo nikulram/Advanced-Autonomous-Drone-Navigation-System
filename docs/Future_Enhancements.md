@@ -7,9 +7,9 @@ This document outlines the future enhancements and goals for the Advanced Autono
 
 ## Pathfinding Algorithms: A* and Dijkstra's
 
-### A* Algorithm
+### What is A* Algorithm ?
 
-A* (A-Star) is a pathfinding algorithm used to find the shortest path between a start and an end point. It uses a heuristic to guide its search, making it faster and more efficient, especially in large graphs.
+A* (A-Star) is a pathfinding algorithm used to find the shortest path between a start and an end point. It uses a heuristic to guide its search, making it faster and more efficient, especially in large graphs.(Hart, P.E., Nilsson, N.J., Raphael, B., 1968).
 
 #### Implementation
 
@@ -59,9 +59,9 @@ class AStarPlanner:
         return []
 
 
-### Dijkstra’s Algorithm
+### What is Dijkstra’s Algorithm ?
 
-Dijkstra’s algorithm is used to find the shortest paths between nodes in a graph. It does not use a heuristic and is optimal for graphs with uniform edge weights.
+Dijkstra’s algorithm is used to find the shortest paths between nodes in a graph. It does not use a heuristic and is optimal for graphs with uniform edge weights. (Dijkstra, E.W., 1959).
 
 #### Implementation
 
@@ -150,4 +150,12 @@ if __name__ == "__main__":
 
 ### Reasons for Current State
 
-Due to time and resource constraints, I have not yet trained models or integrated these algorithms fully into the operational system. The current focus has been on establishing a strong foundational framework and simulating basic functionalities.  
+Due to time and resource constraints, I have not yet trained models or integrated these algorithms fully into the operational system. The current focus has been on establishing a strong foundational framework and simulating basic functionalities.
+(NOTE : FUTURE UPDATES WILL POSSIBLY BE GIVEN IN THIS FILE)  
+
+
+### References
+
+Hart, P.E., Nilsson, N.J., Raphael, B. (1968). "A Formal Basis for the Heuristic Determination of Minimum Cost Paths". IEEE Transactions on Systems Science and Cybernetics. 
+
+Dijkstra, E.W. (1959). "A Note on Two Problems in Connexion with Graphs". Numerische Mathematik
