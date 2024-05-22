@@ -53,10 +53,10 @@ Push to the branch (git push origin feature/AmazingFeature).
 Open a Pull Request.
 
 ## Documentation
-For a detailed explanation of the project's architecture, development phases, and more, see the Advanced Autonomous Drone Navigation System Documentation located in the docs folder.
+For a detailed explanation of the project's architecture, development phases, and more, see the Advanced Autonomous Drone Navigation System [Documentation](docs/Advanced_Autonomous_Drone_Navigation_System_Documentation_v1.0.pdf) located in the docs folder.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 AirSim and Unreal Engine for simulation capabilities.
