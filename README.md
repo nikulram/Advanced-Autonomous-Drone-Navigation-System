@@ -1,5 +1,10 @@
 # Advanced Autonomous Drone Navigation System (AADNS) by Nikul Ram
 
+## IMPORTANT NOTICE  
+This project is licensed under the MIT License. **You are legally required to retain my copyright notice**  
+and provide proper attribution to **Nikul Ram** in all copies or forks.  
+Failure to do so violates the license terms and may result in a takedown request.
+
 ## Overview
 The Advanced Autonomous Drone Navigation System (AADNS) is a sophisticated initiative leveraging cutting-edge technologies in AI, machine learning, and simulation to develop highly advanced autonomous drone capabilities. Designed for complex environmental interactions and adaptive flight path management, it aims to push the boundaries of what autonomous drones can achieve in realistic and simulated settings.
 
